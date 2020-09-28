@@ -1,0 +1,189 @@
+{"level":"INFO","time":"2020-09-07T18:06:08.876+0800","caller":"user/main.go:33","msg":"user 启动成功"}
+{"level":"INFO","time":"2020-09-07T18:07:15.535+0800","caller":"utils/init.go:16","msg":"DB 初始化成功..."}
+{"level":"INFO","time":"2020-09-07T18:07:15.572+0800","caller":"user/main.go:33","msg":"user 启动成功..."}
+{"level":"INFO","time":"2020-09-07T18:30:27.688+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-07T18:30:27.689+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-07T18:30:27.750+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-09T15:25:54.747+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-09T15:25:54.750+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-09T15:25:54.854+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-09T15:32:30.606+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-09T15:32:30.607+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-09T15:32:30.667+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-10T10:17:45.866+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-10T10:17:45.867+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-10T10:17:45.906+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-10T16:39:38.483+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-10T16:39:38.486+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-10T16:39:38.547+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-10T16:40:43.127+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-10T16:40:43.128+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-10T16:40:43.207+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-11T11:46:04.553+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-11T11:46:04.554+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-11T11:46:04.640+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-11T11:47:20.805+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-11T11:47:20.806+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-11T11:47:20.857+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-11T11:49:30.450+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-11T11:49:30.451+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-11T11:49:30.498+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-11T13:02:01.760+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-11T13:02:01.761+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-11T13:02:01.808+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-11T13:13:30.549+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-11T13:13:30.551+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-11T13:13:30.609+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-16T17:02:15.432+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-16T17:02:15.433+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-16T17:02:15.476+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-16T17:45:45.061+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-16T17:45:45.062+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-16T17:45:45.428+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-16T17:57:07.916+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-16T17:57:07.918+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-16T17:57:07.973+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-17T09:05:10.875+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-17T09:05:10.876+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-17T09:05:10.950+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-17T09:31:33.670+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-17T09:31:33.672+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-17T09:31:33.713+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-17T09:37:21.591+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-17T09:37:21.592+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-17T09:37:21.660+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-17T09:42:23.066+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-17T09:42:23.067+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-17T09:42:23.108+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-17T09:56:31.560+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-17T09:56:31.563+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-17T09:56:31.605+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-17T10:03:05.571+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-17T10:03:05.572+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-17T10:03:05.624+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-21T18:00:25.709+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-21T18:00:25.712+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-21T18:00:25.753+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-21T18:27:39.570+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-21T18:27:39.571+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"FATAL","time":"2020-09-21T18:27:39.573+0800","caller":"runtime/proc.go:203","msg":"listen tcp :10300: bind: address already in use"}
+{"level":"INFO","time":"2020-09-21T18:28:35.858+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-21T18:28:35.859+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"FATAL","time":"2020-09-21T18:28:35.860+0800","caller":"runtime/proc.go:203","msg":"listen tcp :10300: bind: address already in use"}
+{"level":"INFO","time":"2020-09-21T18:29:18.185+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-21T18:29:18.185+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-21T18:29:18.254+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T10:13:44.009+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T10:13:44.010+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T10:13:44.052+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T11:24:05.012+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T11:24:05.013+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T11:24:05.073+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T11:39:55.333+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T11:39:55.334+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T11:39:55.371+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T13:02:22.464+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T13:02:22.465+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T13:02:22.505+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T15:21:39.600+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T15:21:39.602+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T15:21:39.638+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T15:54:30.133+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T15:54:30.134+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T15:54:30.175+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T16:52:45.456+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T16:52:45.457+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T16:52:45.518+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T17:16:19.080+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T17:16:19.081+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T17:16:19.129+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T17:36:47.524+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T17:36:47.527+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T17:36:47.602+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T17:56:31.999+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T17:56:32.000+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T17:56:32.042+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-22T17:58:51.616+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-22T17:58:51.618+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-22T17:58:51.684+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T09:20:33.269+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T09:20:33.270+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T09:20:33.311+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T10:38:43.749+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T10:38:43.750+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T10:38:43.793+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T11:08:18.020+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T11:08:18.021+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T11:08:18.123+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T11:28:09.525+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T11:28:09.526+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T11:28:09.569+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T11:45:04.109+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T11:45:04.110+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T11:45:04.183+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T13:12:48.900+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T13:12:48.901+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T13:12:48.943+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T14:39:48.382+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T14:39:48.383+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T14:39:48.436+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T14:40:53.675+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T14:40:53.676+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T14:40:53.720+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-23T18:41:06.891+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-23T18:41:06.893+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-23T18:41:06.937+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T11:46:55.604+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T11:46:55.605+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T11:46:55.673+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T11:49:57.121+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T11:49:57.122+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T11:49:57.168+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T11:53:04.140+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T11:53:04.141+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T11:53:04.204+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T12:47:05.957+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T12:47:05.958+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T12:47:06.010+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T12:58:39.886+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T12:58:39.887+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T12:58:39.947+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T14:40:10.273+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T14:40:10.274+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T14:40:10.335+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T15:05:12.977+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T15:05:12.978+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T15:05:13.044+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T15:10:46.712+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T15:10:46.713+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T15:10:46.765+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T15:51:35.802+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T15:51:35.803+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T15:51:35.871+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T16:09:39.505+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T16:09:39.506+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T16:09:39.590+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T17:05:30.829+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T17:05:30.830+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T17:05:30.877+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T17:17:31.524+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T17:17:31.528+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T17:17:31.618+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-24T17:20:44.871+0800","caller":"runtime/proc.go:5228","msg":"DB 初始化完成..."}
+{"level":"INFO","time":"2020-09-24T17:20:44.872+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-24T17:20:44.923+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-25T10:38:15.955+0800","caller":"runtime/proc.go:5228","msg":"gorm 初始化完成..."}
+{"level":"INFO","time":"2020-09-25T10:38:15.956+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-25T10:38:16.033+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-25T11:15:32.437+0800","caller":"runtime/proc.go:5228","msg":"gorm 初始化完成..."}
+{"level":"INFO","time":"2020-09-25T11:15:32.438+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-25T11:15:32.501+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-25T11:34:14.099+0800","caller":"runtime/proc.go:5228","msg":"gorm 初始化完成..."}
+{"level":"INFO","time":"2020-09-25T11:34:14.100+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-25T11:34:14.196+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-25T11:36:23.901+0800","caller":"runtime/proc.go:5228","msg":"gorm 初始化完成..."}
+{"level":"INFO","time":"2020-09-25T11:36:23.902+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-25T11:36:23.971+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}
+{"level":"INFO","time":"2020-09-25T11:38:03.563+0800","caller":"runtime/proc.go:5228","msg":"gorm 初始化完成..."}
+{"level":"INFO","time":"2020-09-25T11:38:03.565+0800","caller":"runtime/proc.go:5228","msg":"自动迁移 models 到数据库完成..."}
+{"level":"INFO","time":"2020-09-25T11:38:03.622+0800","caller":"v2@v2.9.1/service.go:147","msg":"user 启动完成..."}

@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package com.ops.user.service.user;
+
+service User {
+    rpc QueryUser(Request) returns (Response) {};
+}
+
+message Response {
+    uint32 id = 1;
+    string username = 2;
+    string phone = 3;
+    string email = 4;
+    bool is_admin = 5;
+    string role = 6;
+    bool is_active = 7;
+    string last_login = 8;
+    string updated_time = 9;
+    string created_time = 10;
+    string deleted_time = 11;
+    string password = 12;
+}
+
+message Request {
+    string username = 1;
+    string phone = 2;
+}
